@@ -1,0 +1,11 @@
+
+
+
+fsutil file createnew rollno.txt 1000
+
+
+
+
+
+
+
